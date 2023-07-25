@@ -1,0 +1,44 @@
+/* LoginPage.css */
+
+.login-page-container {
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+h1 {
+    padding-top: 50px;
+}
+.background-image {
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+/* Простая CSS анимация мерцания изображений */
+@keyframes flickerAnimation {
+    0% {
+        opacity: 0.5;
+    }
+
+    50% {
+        opacity: 0.3;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+/* Применяем анимацию для задних фоновых изображений */
+.background-image {
+    animation: flickerAnimation 3s infinite;
+}

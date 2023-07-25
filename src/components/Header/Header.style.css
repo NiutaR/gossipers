@@ -1,0 +1,42 @@
+.ant-layout-header,
+.ant-menu.ant-menu-dark {
+    background-color: #dca8a8;
+    height: 100%;
+}
+
+.ant-menu-dark .ant-menu-item > a {
+    font-size: 25px;
+    color: #494c3d;
+    font-weight: 500;
+    transition: color 0.3s; 
+}
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item:hover,
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item:focus  {
+    background-color: #f3eeeb;
+    transition: background-color 0.3s;
+}
+.ant-menu-horizontal > .ant-menu-item a:hover,
+.ant-menu-horizontal > .ant-menu-item a:focus {
+    color: #949c94;
+}
+.ant-btn {
+    background-color: #e6d4d4;
+    color: #494c3d;
+    border: none;
+    border-radius: 10%;
+    transition: background-color 0.3s;
+    box-shadow: 0 2px 4px rgb(104, 55, 82);
+}
+
+.ant-btn:hover, .ant-btn:focus {
+    background-color: #cc277c;
+    outline: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transition: background-color 0.3s, box-shadow 0.3s; 
+}
+.ant-btn:hover > span, .ant-btn:focus > span,
+.ant-btn > a:only-child:focus,
+.ant-btn > a:only-child:hover {
+    color: #fff;
+    
+}

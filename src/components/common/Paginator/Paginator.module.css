@@ -1,0 +1,42 @@
+.paginator {
+    display: flex;
+    margin: 20px 0;
+}
+
+.paginator button {
+    background-color: #e91e63;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 8px;
+    margin: 0 2px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.paginator button:hover {
+    background-color: #d81b60;
+    transform: scale(1.05);
+}
+
+.paginator .pageNumber {
+    color: #e91e63;
+    border: 1px solid #e91e63;
+    border-radius: 4px;
+    padding: 5px 8px;
+    margin: 0 2px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.paginator .pageNumber:hover {
+    background-color: #d81b60;
+    color: #fff;
+}
+
+.paginator .selectedPage {
+    background-color: #c2185b;
+    color: #fff;
+}
