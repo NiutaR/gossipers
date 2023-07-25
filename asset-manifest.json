@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.3c33b7af.chunk.js": "/gossipers/static/js/0.3c33b7af.chunk.js",
+    "static/js/0.3c33b7af.chunk.js.map": "/gossipers/static/js/0.3c33b7af.chunk.js.map",
+    "main.css": "/gossipers/static/css/main.ceef26d0.chunk.css",
+    "main.js": "/gossipers/static/js/main.8d93af39.chunk.js",
+    "main.js.map": "/gossipers/static/js/main.8d93af39.chunk.js.map",
+    "runtime-main.js": "/gossipers/static/js/runtime-main.0b1f2ae6.js",
+    "runtime-main.js.map": "/gossipers/static/js/runtime-main.0b1f2ae6.js.map",
+    "static/css/3.acd98154.chunk.css": "/gossipers/static/css/3.acd98154.chunk.css",
+    "static/js/3.29f79236.chunk.js": "/gossipers/static/js/3.29f79236.chunk.js",
+    "static/js/3.29f79236.chunk.js.map": "/gossipers/static/js/3.29f79236.chunk.js.map",
+    "static/css/4.5ed169af.chunk.css": "/gossipers/static/css/4.5ed169af.chunk.css",
+    "static/js/4.e208fa6d.chunk.js": "/gossipers/static/js/4.e208fa6d.chunk.js",
+    "static/js/4.e208fa6d.chunk.js.map": "/gossipers/static/js/4.e208fa6d.chunk.js.map",
+    "static/css/5.f3d4bbe3.chunk.css": "/gossipers/static/css/5.f3d4bbe3.chunk.css",
+    "static/js/5.7621ec79.chunk.js": "/gossipers/static/js/5.7621ec79.chunk.js",
+    "static/js/5.7621ec79.chunk.js.map": "/gossipers/static/js/5.7621ec79.chunk.js.map",
+    "static/js/6.c6770820.chunk.js": "/gossipers/static/js/6.c6770820.chunk.js",
+    "static/js/6.c6770820.chunk.js.map": "/gossipers/static/js/6.c6770820.chunk.js.map",
+    "index.html": "/gossipers/index.html",
+    "static/css/3.acd98154.chunk.css.map": "/gossipers/static/css/3.acd98154.chunk.css.map",
+    "static/css/4.5ed169af.chunk.css.map": "/gossipers/static/css/4.5ed169af.chunk.css.map",
+    "static/css/5.f3d4bbe3.chunk.css.map": "/gossipers/static/css/5.f3d4bbe3.chunk.css.map",
+    "static/css/main.ceef26d0.chunk.css.map": "/gossipers/static/css/main.ceef26d0.chunk.css.map",
+    "static/js/3.29f79236.chunk.js.LICENSE.txt": "/gossipers/static/js/3.29f79236.chunk.js.LICENSE.txt",
+    "static/media/background1.a39e6054.jpg": "/gossipers/static/media/background1.a39e6054.jpg",
+    "static/media/background2.2a69b7b8.jpg": "/gossipers/static/media/background2.2a69b7b8.jpg",
+    "static/media/preloader.5788b05c.svg": "/gossipers/static/media/preloader.5788b05c.svg",
+    "static/media/user.png": "/gossipers/static/media/user.96e310a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1f2ae6.js",
+    "static/css/3.acd98154.chunk.css",
+    "static/js/3.29f79236.chunk.js",
+    "static/css/main.ceef26d0.chunk.css",
+    "static/js/main.8d93af39.chunk.js"
+  ]
+}
